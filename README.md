@@ -1,1 +1,1 @@
-# Python-Sample-AWsInfrstuctue-Scripts
+# Python-Sample-AWsInfrastructure-Scripts
