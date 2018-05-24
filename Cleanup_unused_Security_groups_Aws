@@ -1,6 +1,6 @@
 ############################################################################################
 # Delete all the security groups wich starts with "launch-wizard"in Aws-infrastructue      
-# Praveen Kumar. Ch 24-05-2018                                                             
+# PRAVEEN KUMAR.CH     chagapraveen@gmail.com                         DATE: 24-05-2018                                                             
 ############################################################################################
 
 import boto3
