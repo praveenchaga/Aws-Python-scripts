@@ -3,6 +3,7 @@
 #   Create IAM role with RDS-full access.
 #   Create Lambda function
 #   Create cloudwatdh event using then Cron expression 0 6 ? * MON-FRI *
+#	Mentioned DB-Instance will be Start at 06:00 GMT that is 11:30 IST. Weekly five days that is MON-FRI
 #  
 #   PRAVEEN KUMAR.CH                     chagapraveen@gmail.com                                       Date: 05-06-2018
 ############################################################################################################################
